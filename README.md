@@ -52,3 +52,33 @@ still deciding what the project will look like
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 TODO
+
+# Status Report
+
+#### Your name
+
+Dhruv Satasiya
+
+#### Your section leader's name
+
+N/A
+
+#### Project title
+
+The Gold Hunt
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I have come up with a basic idea to what I am going to do. I made the desigh in the Godot.
+
+#### What have you not done for your project yet?
+
+I just have to fix  the way my character animates when running, and jumping. 
+
+#### What problems, if any, have you encountered?
+
+None
